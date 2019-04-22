@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\bin\Debug\Demo.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\bin\Debug\Demo.exe
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\bin\Debug\Demo.pdb
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\obj\Debug\Demo.exe
+C:\Users\sattar\Desktop\P210\C#\20190422\DemoSolution\Demo\obj\Debug\Demo.pdb
